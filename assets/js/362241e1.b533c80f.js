@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkido_c=self.webpackChunkkido_c||[]).push([[9428],{2956:s=>{s.exports=JSON.parse('{"title":"Mysql","description":"5 minutes to learn the most important Docusaurus concepts.","slug":"/category/mysql-1","permalink":"/docs/category/mysql-1","navigation":{"next":{"title":"Mysql 01","permalink":"/docs/g-be-docs/mysql/mysql01"}}}')}}]);
