@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkido_c=self.webpackChunkkido_c||[]).push([[2512],{632:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
