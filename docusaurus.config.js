@@ -13,11 +13,11 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://kido-c.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
-
+  trailingSlash: false,
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "facebook", // Usually your GitHub org/user name.
@@ -65,6 +65,12 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
+      metadata: [
+        {
+          name: "google-site-verification",
+          content: "29R8Ex3Iij_P4BBn16w-lZlefrjlL5mVVYvlVuIpEHc",
+        },
+      ],
       navbar: {
         title: "My Site",
         logo: {
