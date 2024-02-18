@@ -99,6 +99,12 @@ const config = {
             position: "left",
             label: "BE",
           },
+          {
+            type: "docSidebar",
+            sidebarId: "alGroups",
+            position: "left",
+            label: "Algorithms",
+          },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/facebook/docusaurus",
